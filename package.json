@@ -1,0 +1,23 @@
+{
+  "name": "cp001",
+  "version": "1.0.0",
+  "description": "Validar cuotas en compra de equuipo A52 - cuotas12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "validacion",
+    "pago",
+    "en",
+    "12",
+    "cuotas"
+  ],
+  "author": "Marianela Cortina",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.0.0"
+  }
+}

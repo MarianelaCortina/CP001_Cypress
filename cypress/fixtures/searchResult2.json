@@ -1,0 +1,4 @@
+{
+    "searchBanner": ".price-installments > p > [display='inline']",
+    "searchButtonBuyAction": "form > .action"
+}

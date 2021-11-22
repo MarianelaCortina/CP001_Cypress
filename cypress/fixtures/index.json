@@ -1,0 +1,6 @@
+{
+    "searchAction": "#search_mini_form > .actions",
+    "searchInput":"#search",
+    "searchButtonAction":  "#search_mini_form > .actions"
+    
+}
